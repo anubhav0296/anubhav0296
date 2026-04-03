@@ -81,23 +81,6 @@
 
 ---
 
-### 1. Agentic AI Workflow (LangGraph)
-- Designed StateGraph orchestration for LLM reasoning.
-- Integrated knowledge connectors for dynamic retrieval.
-- Implemented conditional routing + multi-step execution.
-
-### 2. Swarm AI: Multi-Agent Automation
-- Built modular workflows with **n8n** and LLM agents.
-- Integrated Google Workspace + voice + Telegram.
-- Demonstrated autonomous email/calendar/travel orchestration.
-
-### 3. RAG + Vector Search Platform
-- End-to-end vector search with **Pinecone** and **AstraDB**.
-- Low-latency retrieval using **Groq LPU**.
-- API layer with **FastAPI + LangServe** + **LangSmith** monitoring.
-
----
-
 ## ▶️ Try It Yourself
 
 1. Clone:
@@ -129,11 +112,9 @@ python examples/run_rag_demo.py
 
 ## 📬 Contact
 
-- LinkedIn: https://www.linkedin.com/in/your-link
-- Email: your.email@example.com
-- Twitter: https://twitter.com/your-profile
-
+- LinkedIn: https://www.linkedin.com/in/anubhav-srivastava-65009b163/
+- Email: shanukumar.srivastava77@gmail.com
 ---
 
-> Enjoy exploring — let’s make ML & AI in finance smarter and safer together!  
+> Enjoy exploring — let’s make AI & ML in finance smarter and safer together!  
 
