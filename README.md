@@ -1,42 +1,116 @@
-🚀 Welcome to My GitHub Profile! 👨‍💻
-I'm Anubhav Srivastava 👋
+# 🚀 Anubhav Srivastava — AI & Data Science Portfolio
 
-I’m a Data Scientist working at HSBC, where I build machine learning and AI-driven solutions in the banking domain, with a focus on fraud analytics and LLM-based automation.
+👋 Hello! I’m Anubhav, a Data Scientist at HSBC specializing in fraud analytics, Generative AI, and production-grade ML systems.
 
-I work with Python, SQL, and Machine Learning to develop models that identify high-risk customers using transaction and behavioral data. I also explore Generative AI and Agentic AI systems, building applications using RAG pipelines, LangChain, LangGraph, and AutoGen.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/your-link) [![Email](https://img.shields.io/badge/Email-contact-red?logo=gmail)](mailto:your.email@example.com)
 
-Previously at Capgemini, I developed scalable ETL pipelines and automated data workflows to process data from multiple enterprise systems and support business analytics.
+---
 
-Feel free to explore my repositories, where I showcase projects from Generative AI, RAG,Multimodal RAG,NLP,Text to Speech, predictive analytics, data wrangling, and machine learning to business intelligence using Power BI.
+## 🧭 Table of Contents
 
-🚀 Areas I enjoy working on:
-• Generative AI & LLM Applications
-• Agentic AI Systems
-• Machine Learning & Fraud Analytics
-• Data Pipelines & Analytics
+1. [About Me](#about-me)
+2. [Highlights](#highlights)
+3. [Skills](#skills)
+4. [Featured Projects](#featured-projects)
+5. [Try It Yourself](#try-it-yourself)
+6. [How To Contribute](#how-to-contribute)
+7. [Contact](#contact)
 
-🔧 Technologies & Tools
-Languages & Libraries:
-Python Python: Proficient in Python for data science, machine learning, and statistical analysis.
-SQL SQL: Extensive experience working with relational databases, creating and optimizing queries.
-Pandas Pandas: Expertise in data manipulation and analysis.
-NumPy NumPy: Advanced numerical computing and handling of large datasets.
-Scikit Learn Sci-kit Learn: Building machine learning models, including regression, classification, and clustering algorithms.
-Matplotlib Matplotlib & Seaborn: Data visualization for insightful analysis and clear communication.
-Power BI Power BI: Creating interactive dashboards and reports for business intelligence.
+---
 
-📈 Projects Showcase
-Below are some of the notable projects that I've worked on:
+## 💡 About Me
 
-1. Agentic AI Workflow (LangGraph Framework)
-•	Designed an agentic AI workflow using LangGraph’s StateGraph architecture, enabling structured orchestration of LLM reasoning through graph-based execution.
-•	Implemented tool-enabled agents with LangChain, integrating external knowledge sources such as Wikipedia, ArXiv, and Tavily for dynamic information retrieval.
-•	Built conditional routing and multi-step reasoning pipelines, enabling the LLM to autonomously decide when to invoke tools and execute complex queries.
-2. Swarm AI – Agentic Automation Platform (n8n + LLMs)
-•	Designed an event-driven, multi-agent architecture in n8n where AI agents collaborate to execute complex workflows (email → calendar → travel booking).
-•	Developed modular sub-workflows with API integrations (Google Workspace, search APIs) and dynamic prompt chaining for intelligent decision-making.
-•	Deployed a real-world assistant with Telegram + voice interface, demonstrating end-to-end automation, multimodal interaction, and scalable orchestration. execute complex queries.
-3. Generative AI & LLM Applications (LangChain Ecosystem) | Project Link
-•	Built a high-performance RAG pipeline using Groq (LPU) with Llama 3.1 / Gemma, enabling low-latency query responses on large-scale unstructured data.
-•	Designed scalable vector search systems using AstraDB (Cassandra) and Pinecone, optimizing embedding storage and retrieval for accurate context-aware generation.
-•	Lll Developed end-to-end data pipelines and deployed LLM applications as REST APIs using FastAPI & LangServe, with monitoring and evaluation via LangSmith
+- Data Scientist at **HSBC**, building AI solutions for fraud detection and automation.
+- Experience with **ETL pipelines**, **RAG**, **LangChain**, **LangGraph**, **AutoGen**, and **agentic AI**.
+- Formerly at **Capgemini** delivering scalable enterprise data workflows.
+
+> "I solve hard data problems with intelligent pipelines and responsible AI." 
+
+---
+
+## 🌟 Highlights
+
+- Built **agentic workflows** for multi-step reasoning over knowledge sources (Wikipedia, ArXiv, Tavily).
+- Developed **Swarm AI** orchestration using **n8n + LLM agents** with real-world integrations (Gmail, Calendar, Travel booking).
+- Engineered low-latency **RAG pipelines** with **Groq LPU + Llama/Gemma**, backed by **Pinecone/AstraDB**.
+- Deployed APIs using **FastAPI + LangServe**, monitored with **LangSmith**.
+
+---
+
+## 🛠️ Skills
+
+### Core Competencies
+- Generative AI / LLM applications
+- Agentic systems & tool orchestration
+- Fraud detection & risk scoring
+- Data pipelines, ETL, analytics
+
+### Tech Stack
+| Area | Tools & Frameworks |
+| --- | --- |
+| Python | Pandas, NumPy, Scikit-Learn, xgboost, catboost |
+| Data | PostgreSQL, MySQL, Snowflake, SQL Server |
+| ML / AI | LangChain, LangGraph, AutoGen, OpenAI, Llama | 
+| APIs | FastAPI, REST, n8n, Airflow |
+| BI | Power BI, Tableau |
+
+---
+
+## 📁 Featured Projects
+
+### 1. Agentic AI Workflow (LangGraph)
+- Designed StateGraph orchestration for LLM reasoning.
+- Integrated knowledge connectors for dynamic retrieval.
+- Implemented conditional routing + multi-step execution.
+
+### 2. Swarm AI: Multi-Agent Automation
+- Built modular workflows with **n8n** and LLM agents.
+- Integrated Google Workspace + voice + Telegram.
+- Demonstrated autonomous email/calendar/travel orchestration.
+
+### 3. RAG + Vector Search Platform
+- End-to-end vector search with **Pinecone** and **AstraDB**.
+- Low-latency retrieval using **Groq LPU**.
+- API layer with **FastAPI + LangServe** + **LangSmith** monitoring.
+
+---
+
+## ▶️ Try It Yourself
+
+1. Clone:
+```bash
+git clone https://github.com/your-username/your-repo.git
+cd your-repo
+```
+2. Setup venv:
+```bash
+python -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+```
+3. Run a sample pipeline:
+```bash
+python examples/run_rag_demo.py
+```
+4. Explore project notebooks in `notebooks/` for interactive experimentation.
+
+---
+
+## 🤝 How To Contribute
+
+- Star ⭐ the repository if you find it useful.
+- Open issues for bugs or enhancement ideas.
+- Submit PRs with clear descriptions and tests.
+
+---
+
+## 📬 Contact
+
+- LinkedIn: https://www.linkedin.com/in/your-link
+- Email: your.email@example.com
+- Twitter: https://twitter.com/your-profile
+
+---
+
+> Enjoy exploring — let’s make ML & AI in finance smarter and safer together!  
+
