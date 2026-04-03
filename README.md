@@ -87,7 +87,7 @@
 - Developed modular sub-workflows with API integrations (Google Workspace, search APIs) and dynamic prompt chaining.
 - Deployed a real-world assistant with **Telegram + voice interface**, showing end-to-end automation and multimodal orchestration.
 
-### Generative AI & LLM Applications (LangChain Ecosystem) | [Project Link](#)
+### Generative AI & LLM Applications (LangChain Ecosystem) | [Project Link](https://github.com/anubhav0296/Generative-AI-LangChain/tree/main/LANGCHAIN)
 - Built high-performance **RAG pipeline with Groq LPU** using Llama 3.1 / Gemma for fast query responses over large unstructured content.
 - Designed scalable vector search with **AstraDB (Cassandra)** and **Pinecone**, optimizing embeddings for context-aware generation.
 - Developed end-to-end pipelines and deployed LLM apps as REST APIs using **FastAPI + LangServe**, with monitoring via **LangSmith**.
