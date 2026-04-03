@@ -1,6 +1,6 @@
 # 🚀 Anubhav Srivastava — AI & Data Science Portfolio
 
-👋 Hello! I’m Anubhav, a Data Scientist at HSBC specializing in fraud analytics, Generative AI, and production-grade ML systems.
+👋 Hello! I’m Anubhav, a Data Scientist at HSBC specializing in Generative AI, RAG and production-grade ML systems.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/your-link) [![Email](https://img.shields.io/badge/Email-contact-red?logo=gmail)](mailto:your.email@example.com)
 
@@ -42,10 +42,19 @@
 <a id="skills"></a>
 ## 🛠️ Skills
 
-- Python, SQL, Machine Learning, Deep Learning
+### Languages & Libraries
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org) **Python**: Proficient in Python for data science, machine learning, and statistical analysis.  
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/) **SQL**: Extensive experience working with relational databases, creating and optimizing queries.  
+[![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/) **Pandas**: Expertise in data manipulation and analysis.  
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/) **NumPy**: Advanced numerical computing and handling of large datasets.  
+[![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/) **Scikit-Learn**: Building machine learning models, including regression, classification, and clustering algorithms.  
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/) **Matplotlib & Seaborn**: Data visualization for insightful analysis and clear communication.  
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)](https://powerbi.microsoft.com/) **Power BI**: Creating interactive dashboards and reports for business intelligence.
+
+### Other Skills
 - Postman, Gen AI, LLM, NLP, Streamlit, Computer Vision
 - Agentic AI, LangGraph, Prompt Engineering, LLM Fine-Tuning
-- Git, Excel, Jira, Power BI
+- Git, Excel, Jira
 
 ---
 
