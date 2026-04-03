@@ -2,7 +2,7 @@
 
 👋 Hello! I’m Anubhav, a Data Scientist at HSBC specializing in Generative AI, RAG and production-grade ML systems.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/your-link) [![Email](https://img.shields.io/badge/Email-contact-red?logo=gmail)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/anubhav-srivastava-65009b163/) [![Email](https://img.shields.io/badge/Email-contact-red?logo=gmail)](mailto:shanukumar.srivastava77@gmail.com)
 
 ---
 
