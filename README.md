@@ -18,6 +18,7 @@
 
 ---
 
+<a id="about-me"></a>
 ## 💡 About Me
 
 - Data Scientist at **HSBC**, building AI solutions for fraud detection and automation.
@@ -28,6 +29,7 @@
 
 ---
 
+<a id="highlights"></a>
 ## 🌟 Highlights
 
 - Built **agentic workflows** for multi-step reasoning over knowledge sources (Wikipedia, ArXiv, Tavily).
@@ -37,6 +39,7 @@
 
 ---
 
+<a id="skills"></a>
 ## 🛠️ Skills
 
 - Python, SQL, Machine Learning, Deep Learning
@@ -62,9 +65,10 @@
 
 ---
 
+<a id="featured-projects"></a>
 ## 📁 Featured Projects
 
-### Agentic AI Workflow (LangGraph Framework) | [Project Link](#)
+### Agentic AI Workflow (LangGraph Framework) | [Project Link](https://github.com/anubhav0296/AGENTICLANGGRAPH)
 - Designed an agentic AI workflow using **LangGraph StateGraph**, enabling structured orchestration of LLM reasoning.
 - Implemented tool-enabled agents with **LangChain**, integrating external sources (Wikipedia, ArXiv, Tavily) for dynamic retrieval.
 - Built conditional routing and multi-step reasoning pipelines so LLMs autonomously decide when to invoke tools.
@@ -81,6 +85,7 @@
 
 ---
 
+<a id="try-it-yourself"></a>
 ## ▶️ Try It Yourself
 
 1. Clone:
@@ -102,6 +107,7 @@ python examples/run_rag_demo.py
 
 ---
 
+<a id="how-to-contribute"></a>
 ## 🤝 How To Contribute
 
 - Star ⭐ the repository if you find it useful.
@@ -110,6 +116,7 @@ python examples/run_rag_demo.py
 
 ---
 
+<a id="contact"></a>
 ## 📬 Contact
 
 - LinkedIn: https://www.linkedin.com/in/anubhav-srivastava-65009b163/
