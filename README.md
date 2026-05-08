@@ -1,6 +1,6 @@
 # 🚀 Anubhav Srivastava — AI & Data Science Portfolio
 
-👋 Hello! I’m Anubhav, a Data Scientist at HSBC specializing in Generative AI, RAG and production-grade ML systems.
+👋 Hello! I’m Anubhav, a Manager at HSBC specializing in Generative AI, RAG and production-grade ML systems.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/anubhav-srivastava-65009b163/) [![Email](https://img.shields.io/badge/Email-contact-red?logo=gmail)](mailto:shanukumar.srivastava77@gmail.com)
 
@@ -21,7 +21,6 @@
 <a id="about-me"></a>
 ## 💡 About Me
 
-- Data Scientist at **HSBC**, building AI solutions for fraud detection and automation.
 - Experience with **ETL pipelines**, **RAG**, **LangChain**, **LangGraph**, **AutoGen**, and **agentic AI**.
 - Formerly at **Capgemini** delivering scalable enterprise data workflows.
 
@@ -58,19 +57,7 @@
 
 ---
 
-## 💼 Experience
 
-### Data Scientist | HSBC | Aug 2024 - Present | Bangalore
-- Built an end-to-end **NLP-to-SQL analytics platform** enabling natural language queries on banking datasets with auto-generated SQL, visualizations, and summaries for non-technical users.
-- Designed a scalable **LLM-based architecture** using Gemini/OpenAI with **FastAPI** backend and **React (TypeScript)** frontend, integrating **DuckDB/BigQuery** and **ChromaDB** for context-aware retrieval.
-- Optimized enterprise LLM performance by converting complex banking policy documents into structured AI-ready formats, improving response accuracy and reducing latency.
-- Automated fraud complaint categorization by converting raw HTML customer complaint data into structured text with Python and leveraging LLMs on the Work AI platform to produce categorized CSV outputs for downstream analytics.
-- Built a Conduct Analytics fraud detection system to identify high-risk (mule) customers using demographic, transaction, and digital footprint data, with ML models like **XGBoost**, **Random Forest**, and **Logistic Regression**.
-
-### Data Analyst | Capgemini | Dec 2022 - Aug 2024 | Bangalore
-- Built end-to-end ETL pipelines using Python, BigQuery, and DSW for ingestion, cleaning, validation, and transformation to produce analytics-ready datasets.
-- Developed an automated Python workflow to ingest data from 40+ sources, applying quality checks, format standardization, and routing outputs.
-- Collaborated with business teams to maintain campaign data pipelines for Loans, Deposits, FX, etc., aligning SQL to tracking specs and loading data into BigQuery for reporting.
 
 ---
 
