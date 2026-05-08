@@ -2,7 +2,7 @@
 
 👋 Hello! I’m Anubhav, a Manager at HSBC specializing in Generative AI, RAG and production-grade ML systems.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/anubhav-srivastava-65009b163/) [![Email](https://img.shields.io/badge/Email-contact-red?logo=gmail)](mailto:shanukumar.srivastava77@gmail.com)
+[[![Email](https://img.shields.io/badge/Email-contact-red?logo=gmail)](mailto:shanukumar.srivastava77@gmail.com)
 
 ---
 
@@ -115,7 +115,6 @@ python examples/run_rag_demo.py
 <a id="contact"></a>
 ## 📬 Contact
 
-- LinkedIn: https://www.linkedin.com/in/anubhav-srivastava-65009b163/
 - Email: shanukumar.srivastava77@gmail.com
 ---
 
