@@ -1,122 +1,205 @@
 # 🚀 Anubhav Srivastava — AI & Data Science Portfolio
 
-👋 Hello! I’m Anubhav, a Data Scientist at HSBC specializing in Generative AI, RAG and production-grade ML systems.
+👋 Hi! I'm **Anubhav Srivastava**, a **Data Scientist at HSBC** specializing in **Generative AI, Agentic AI, Retrieval-Augmented Generation (RAG), LLM Applications, and Machine Learning**. I enjoy building production-grade AI systems that solve real-world enterprise problems using modern AI frameworks and cloud technologies.
 
-[[![Email](https://img.shields.io/badge/Email-contact-red?logo=gmail)](mailto:shanukumar.srivastava77@gmail.com)
+[![Email](https://img.shields.io/badge/Email-contact-red?logo=gmail)](mailto:shanukumar.srivastava77@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?logo=github)](https://github.com/anubhav0296)
 
 ---
 
-## 🧭 Table of Contents
+# 🧭 Table of Contents
 
-1. [About Me](#about-me)
-2. [Highlights](#highlights)
-3. [Skills](#skills)
-4. [Featured Projects](#featured-projects)
-5. [Try It Yourself](#try-it-yourself)
-6. [How To Contribute](#how-to-contribute)
-7. [Contact](#contact)
+- [About Me](#about-me)
+- [Highlights](#highlights)
+- [Skills](#skills)
+- [Featured Projects](#featured-projects)
+- [Contact](#contact)
 
 ---
 
 <a id="about-me"></a>
-## 💡 About Me
 
-- Experience with **ETL pipelines**, **RAG**, **LangChain**, **LangGraph**, **AutoGen**, and **agentic AI**.
-- Formerly at **Capgemini** delivering scalable enterprise data workflows.
+# 💡 About Me
 
-> "I solve hard data problems with intelligent pipelines and responsible AI." 
+- 💼 Data Scientist with **3.7+ years** of experience in AI, Machine Learning, and Enterprise Analytics.
+- 🤖 Building **LLM-powered applications**, **Agentic AI workflows**, and **production-ready RAG systems**.
+- ☁️ Experience with **Google Cloud, FastAPI, LangChain, LangGraph, LangMem, Qdrant, ChromaDB, and Vector Search**.
+- 📊 Passionate about solving enterprise problems using scalable AI architectures and intelligent automation.
+- 🏦 Currently working on AI solutions for **Financial Crime Detection (AML)** at HSBC.
+
+> *"Building intelligent AI systems that combine reasoning, retrieval, and real-world enterprise data."*
 
 ---
 
 <a id="highlights"></a>
-## 🌟 Highlights
 
-- Built **agentic workflows** for multi-step reasoning over knowledge sources (Wikipedia, ArXiv, Tavily).
-- Developed **Swarm AI** orchestration using **n8n + LLM agents** with real-world integrations (Gmail, Calendar, Travel booking).
-- Engineered low-latency **RAG pipelines** with **Groq LPU + Llama/Gemma**, backed by **Pinecone/AstraDB**.
-- Deployed APIs using **FastAPI + LangServe**, monitored with **LangSmith**.
+# 🌟 Highlights
+
+- 🚀 Built a production-grade **Enterprise Agentic RAG System** using **LangGraph, FastAPI, Qdrant, Groq, and Google Cloud**.
+- 🤖 Developed an **Agentic Insurance Claim Support System** using **LangMem**, **RAG**, and **LLM Tool Calling**.
+- 🧠 Engineered **Agentic AI** workflows with **LangGraph** and **n8n** for autonomous reasoning and workflow automation.
+- ⚡ Built scalable **RAG pipelines** with **Groq**, **Qdrant**, **Pinecone**, and **semantic reranking**.
+- ☁️ Developed and deployed enterprise AI applications with **FastAPI**, **LangServe**, **LangSmith**, and **Google Cloud**.
 
 ---
 
 <a id="skills"></a>
-## 🛠️ Skills
 
-### Languages & Libraries
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org) **Python**: Proficient in Python for data science, machine learning, and statistical analysis.  
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/) **SQL**: Extensive experience working with relational databases, creating and optimizing queries.  
-[![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/) **Pandas**: Expertise in data manipulation and analysis.  
-[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/) **NumPy**: Advanced numerical computing and handling of large datasets.  
-[![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/) **Scikit-Learn**: Building machine learning models, including regression, classification, and clustering algorithms.  
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/) **Matplotlib & Seaborn**: Data visualization for insightful analysis and clear communication.  
-[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)](https://powerbi.microsoft.com/) **Power BI**: Creating interactive dashboards and reports for business intelligence.
+# 🛠️ Skills
 
-### Other Skills
-- Postman, Gen AI, LLM, NLP, Streamlit, Computer Vision
-- Agentic AI, LangGraph, Prompt Engineering, LLM Fine-Tuning
-- Git, Excel, Jira
+### 🚀 Generative AI & LLMs
 
----
+- LLMs
+- Agentic AI
+- Retrieval-Augmented Generation (RAG)
+- Prompt Engineering
+- Fine-tuning
+- Embeddings
+- LLM Evals
+- Guardrails
+- Hugging Face Transformers
 
+### 🤖 AI Frameworks
 
+- LangChain
+- LangGraph
+- LangMem
+- LlamaIndex
+- MCP
+- Tool Calling
+- Multi-Agent Systems
+
+### ⚡ Backend & Deployment
+
+- FastAPI
+- REST APIs
+- LangServe
+- Docker
+- LangSmith
+
+### 🔍 Retrieval & Vector Databases
+
+- Qdrant
+- ChromaDB
+- Pinecone
+- AstraDB
+- Redis
+- Hybrid Search
+- Semantic Search
+- FlashRank
+- Reranking
+
+### ☁️ Cloud & Data
+
+- Google Cloud
+- Vertex AI
+- BigQuery
+- Cloud Storage
+- Cloud Run
+
+### 📈 Machine Learning
+
+- Python
+- SQL
+- Scikit-learn
+- XGBoost
+- Random Forest
+- Logistic Regression
+
+### 🛠️ Other Tools
+
+- Streamlit
+- Power BI
+- Git
+- Postman
+- Jira
+- NLP
 
 ---
 
 <a id="featured-projects"></a>
-## 📁 Featured Projects
 
-### Agentic AI Workflow (LangGraph Framework) | [Project Link](https://github.com/anubhav0296/AGENTICLANGGRAPH)
-- Designed an agentic AI workflow using **LangGraph StateGraph**, enabling structured orchestration of LLM reasoning.
-- Implemented tool-enabled agents with **LangChain**, integrating external sources (Wikipedia, ArXiv, Tavily) for dynamic retrieval.
-- Built conditional routing and multi-step reasoning pipelines so LLMs autonomously decide when to invoke tools.
-
-### Swarm AI – Agentic Automation Platform (n8n + LLMs)
-- Designed an event-driven multi-agent architecture in **n8n** where AI agents coordinate for workflows (email → calendar → travel booking).
-- Developed modular sub-workflows with API integrations (Google Workspace, search APIs) and dynamic prompt chaining.
-- Deployed a real-world assistant with **Telegram + voice interface**, showing end-to-end automation and multimodal orchestration.
-
-### Generative AI & LLM Applications (LangChain Ecosystem) | [Project Link](https://github.com/anubhav0296/Generative-AI-LangChain/tree/main/LANGCHAIN)
-- Built high-performance **RAG pipeline with Groq LPU** using Llama 3.1 / Gemma for fast query responses over large unstructured content.
-- Designed scalable vector search with **AstraDB (Cassandra)** and **Pinecone**, optimizing embeddings for context-aware generation.
-- Developed end-to-end pipelines and deployed LLM apps as REST APIs using **FastAPI + LangServe**, with monitoring via **LangSmith**.
+# 📁 Featured Projects
 
 ---
 
-<a id="try-it-yourself"></a>
-## ▶️ Try It Yourself
+## 🚀 Enterprise Agentic RAG System
+**Google Cloud • LangGraph • FastAPI • Qdrant**
 
-1. Clone:
-```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
-```
-2. Setup venv:
-```bash
-python -m venv .venv
-source .venv/bin/activate
-pip install -r requirements.txt
-```
-3. Run a sample pipeline:
-```bash
-python examples/run_rag_demo.py
-```
-4. Explore project notebooks in `notebooks/` for interactive experimentation.
+🔗 **Project:** https://github.com/anubhav0296/Enterprise_RAG
+
+- Built a production-grade **Retrieval-Augmented Generation (RAG)** system using **Python, LangGraph, FastAPI, Groq, Qdrant, and Google Cloud**, enabling accurate document-grounded responses over large unstructured datasets.
+- Designed and deployed an end-to-end AI pipeline with **document ingestion, vector search, semantic reranking, observability, and cloud deployment**, improving retrieval quality and scalability for enterprise use cases.
 
 ---
 
-<a id="how-to-contribute"></a>
-## 🤝 How To Contribute
+## 🤖 Insurance Claim Support AI Agent
 
-- Star ⭐ the repository if you find it useful.
-- Open issues for bugs or enhancement ideas.
-- Submit PRs with clear descriptions and tests.
+**LangGraph • LangChain • LangMem • FastAPI • ChromaDB**
+
+🔗 **Project:** https://github.com/anubhav0296/Insurance-Claim-Support-AI-Agent
+
+- Built an agentic insurance claim support system using **Python, FastAPI, LangChain, LangGraph, ChromaDB, and Streamlit** to generate context-aware claim response drafts grounded in policy documents and customer history.
+- Integrated **LangMem-based long-term memory**, **RAG-powered semantic retrieval**, and **LLM-driven tool calling** for customer plan and workload analysis, enabling faster and more consistent insurance support workflows.
+
+---
+
+## 🧠 Agentic AI Workflow (LangGraph Framework)
+
+🔗 **Project:** https://github.com/anubhav0296/AGENTICLANGGRAPH
+
+- Designed an agentic workflow using **LangGraph StateGraph**, enabling structured orchestration of LLM reasoning.
+- Built **tool-enabled AI agents** integrating Wikipedia, ArXiv, and Tavily Search for intelligent retrieval.
+- Implemented conditional routing and multi-step reasoning to enable autonomous tool usage.
+
+---
+
+## 🤖 Swarm AI – Agentic Automation Platform
+
+**n8n • Multi-Agent AI • LLMs**
+
+- Designed an event-driven **multi-agent architecture** in **n8n** where AI agents collaborate to automate workflows such as **Email → Calendar → Travel Booking**.
+- Developed modular workflows integrating Google Workspace, Search APIs, Telegram, and Voice interfaces for end-to-end intelligent automation.
+
+---
+
+## ⚡ Generative AI & LLM Applications
+
+**LangChain • FastAPI • Pinecone • AstraDB**
+
+🔗 **Project:** https://github.com/anubhav0296/Generative-AI-LangChain/tree/main/LANGCHAIN
+
+- Built a high-performance **RAG pipeline** using **Groq LPU**, **Llama 3.1**, and **Gemma** for low-latency question answering.
+- Designed scalable semantic retrieval using **AstraDB** and **Pinecone**.
+- Deployed production-ready LLM applications using **FastAPI**, **LangServe**, and **LangSmith**.
+
+---
+
+# 📊 Current Focus
+
+- 🤖 Agentic AI
+- 🧠 Multi-Agent Systems
+- 📚 Retrieval-Augmented Generation (RAG)
+- ☁️ Google Cloud AI
+- 🔍 Semantic Search
+- ⚡ Enterprise AI Applications
+- 🚀 Production LLM Systems
 
 ---
 
 <a id="contact"></a>
-## 📬 Contact
 
-- Email: shanukumar.srivastava77@gmail.com
+# 📬 Contact
+
+📧 **Email:** shanukumar.srivastava77@gmail.com
+
+💼 **LinkedIn:** https://www.linkedin.com/in/YOUR-LINKEDIN
+
+🐙 **GitHub:** https://github.com/anubhav0296
+
 ---
 
-> Enjoy exploring — let’s make AI & ML in finance smarter and safer together!  
+# ⭐ Thanks for Visiting!
 
+If you find my work interesting, feel free to explore the repositories, raise issues, or connect with me. I'm always interested in collaborating on **AI, LLM, Agentic AI, and Machine Learning** projects.
