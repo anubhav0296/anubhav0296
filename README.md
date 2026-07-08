@@ -1,6 +1,6 @@
 # 🚀 Anubhav Srivastava — AI & Data Science Portfolio
 
-👋 Hello! I’m Anubhav, a Manager at HSBC specializing in Generative AI, RAG and production-grade ML systems.
+👋 Hello! I’m Anubhav, a Data Scientist at HSBC specializing in Generative AI, RAG and production-grade ML systems.
 
 [[![Email](https://img.shields.io/badge/Email-contact-red?logo=gmail)](mailto:shanukumar.srivastava77@gmail.com)
 
