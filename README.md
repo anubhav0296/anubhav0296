@@ -10,7 +10,7 @@
 
 # 🧑‍💻 About Me
 
-- 💼 Data Scientist with **3.7+ years** of experience in AI, Machine Learning, and Enterprise Analytics.
+- 💼 Data Scientist with **4+ years** of experience in AI, Machine Learning, and Enterprise Analytics.
 - 🤖 Building **LLM-powered applications**, **Agentic AI workflows**, and **production-grade RAG systems**.
 - ☁️ Experienced with **LangChain, LangGraph, FastAPI, Google Cloud, Vector Databases, and Enterprise AI**.
 - 🏦 Currently developing AI solutions for **Financial Crime Detection (AML)** at HSBC.
