@@ -190,42 +190,25 @@ https://github.com/anubhav0296/Generative-AI-LangChain/tree/main/LANGCHAIN
 
 ---
 
-# ☁️ GCP AI Architecture
+# 🎯 Current Focus
 
-My production AI applications leverage Google Cloud services for scalable enterprise deployment.
+- 🤖 Agentic AI
+- 📚 Enterprise RAG
+- 🧠 Multi-Agent Systems
+- ☁️ Google Cloud AI
+- 🔍 Semantic Search
+- 🚀 Production LLM Applications
 
-```text
-                    ┌──────────────────────┐
-                    │       User / UI      │
-                    └──────────┬───────────┘
-                               │
-                               ▼
-                    ┌──────────────────────┐
-                    │    FastAPI / API     │
-                    │      Gateway         │
-                    └──────────┬───────────┘
-                               │
-                               ▼
-                    ┌──────────────────────┐
-                    │   LangGraph / LLM    │
-                    │   Agent Orchestration│
-                    └───────┬───────┬──────┘
-                            │       │
-                 ┌──────────┘       └──────────┐
-                 ▼                             ▼
-       ┌──────────────────┐          ┌──────────────────┐
-       │   RAG / Vector   │          │   Vertex AI /    │
-       │     Search       │          │   Gemini / LLM   │
-       └────────┬─────────┘          └──────────────────┘
-                │
-                ▼
-       ┌──────────────────┐
-       │ Enterprise Data  │
-       │    BigQuery      │
-       └──────────────────┘
-                │
-                ▼
-       ┌──────────────────┐
-       │ Cloud Storage /  │
-       │ Documents / Data │
-       └──────────────────┘
+---
+
+# 📬 Connect With Me
+
+📧 **Email:** **<a href="mailto:shanukumar.srivastava77@gmail.com">shanukumar.srivastava77@gmail.com</a>**
+
+💼 **LinkedIn:** https://www.linkedin.com/in/anubhav-srivastava-65009b163/
+
+🐙 **GitHub:** https://github.com/anubhav0296
+
+---
+
+⭐ *Thanks for visiting my profile! Feel free to explore my repositories or connect with me to discuss AI, LLMs, RAG, Agentic AI, and Machine Learning.*
