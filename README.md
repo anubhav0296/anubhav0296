@@ -1,6 +1,8 @@
 # 🚀 Anubhav Srivastava — AI & Data Science Portfolio
 
-👋 Hi! I'm **Anubhav Srivastava**, a **Data Scientist at HSBC** specializing in **Generative AI, Agentic AI, Retrieval-Augmented Generation (RAG), and Production AI Systems**.
+👋 Hi! I'm **Anubhav Srivastava**, a **Data Scientist at HSBC** specializing in **Generative AI, Agentic AI, RAG, NLP-to-SQL, and Production AI Systems**.
+
+I build enterprise AI applications that combine **LLMs, multi-agent orchestration, retrieval, structured enterprise data, and production APIs** to solve real-world banking and financial crime problems.
 
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:shanukumar.srivastava77@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Anubhav%20Srivastava-blue?logo=linkedin)](https://www.linkedin.com/in/anubhav-srivastava-65009b163/)
@@ -10,10 +12,12 @@
 
 # 🧑‍💻 About Me
 
-- 💼 Data Scientist with **4+ years** of experience in AI, Machine Learning, and Enterprise Analytics.
-- 🤖 Building **LLM-powered applications**, **Agentic AI workflows**, and **production-grade RAG systems**.
-- ☁️ Experienced with **LangChain, LangGraph, FastAPI, Google Cloud, Vector Databases, and Enterprise AI**.
-- 🏦 Currently developing AI solutions for **Financial Crime Detection (AML)** at HSBC.
+- 💼 **Data Scientist with 4+ years of experience** building AI, Machine Learning, and enterprise analytics solutions.
+- 🤖 Experienced in building **LLM-powered applications, Agentic AI workflows, RAG systems, and NLP-to-SQL platforms**.
+- 🧠 Strong experience with **LangChain, LangGraph, FastAPI, LLM orchestration, tool calling, vector databases, and LLM evaluation**.
+- ☁️ Experienced with **Google Cloud, BigQuery, Vertex AI, Cloud Storage, AWS Bedrock, Docker, and production API deployment**.
+- 🏦 Currently developing **AI solutions for Financial Crime Detection (AML)** at HSBC.
+- 🔍 Interested in building **explainable, scalable, secure, and production-ready AI systems**.
 
 > *"Building intelligent AI systems that combine reasoning, retrieval, and enterprise-scale data."*
 
@@ -21,99 +25,207 @@
 
 # 🌟 Highlights
 
-- 🚀 Built a production-grade **Enterprise Agentic RAG System** using **LangGraph, FastAPI, Qdrant, Groq, and Google Cloud**.
-- 🤖 Developed an **Insurance Claim Support AI Agent** using **LangMem**, **RAG**, and **LLM Tool Calling**.
-- 🧠 Built **Agentic AI** workflows with **LangGraph** and **n8n** for intelligent task orchestration.
-- ⚡ Developed scalable **RAG pipelines** using **Qdrant**, **Pinecone**, **Groq**, and **semantic reranking**.
-- ☁️ Deployed enterprise AI applications with **FastAPI**, **LangServe**, **LangSmith**, and **Google Cloud**.
+- 🚨 Developing an **Agentic AI-powered AML Investigation Copilot** using **LangGraph, FastAPI, RAG, GCP, BigQuery, vector search, and LLMs** to support explainable and auditable financial crime investigations.
+- 🧠 Built and deployed a **production NLP-to-SQL platform** using **LLMs, RAG, FastAPI, GCP, BigQuery, and vector search**, enabling natural-language querying over enterprise banking datasets.
+- 🤖 Designed **multi-agent AI workflows** with planner, retrieval, reasoning, and summarization agents using **LangGraph and tool calling**.
+- 📚 Built enterprise-grade **RAG pipelines** with intelligent chunking, embeddings, metadata enrichment, hybrid retrieval, semantic search, and reranking.
+- ⚡ Optimized production LLM applications using **Gemini, OpenAI, AWS Bedrock, FastAPI, vector databases, and prompt orchestration**, with **LangSmith** for tracing and observability.
+- ☁️ Designed and deployed AI applications using **Google Cloud, BigQuery, Vertex AI, Cloud Storage, Docker, and FastAPI**.
+- 🧠 Built LLM-powered information extraction and classification pipelines for **fraud and financial crime use cases**.
 
 ---
 
 # 🛠️ Tech Stack
 
-**Languages:** Python, SQL
+### 💻 Programming
+**Python, SQL**
 
-**Generative AI:** LLMs, RAG, Agentic AI, LangChain, LangGraph, LangMem, Prompt Engineering
+### 🤖 Generative AI
+**LLMs, RAG, Agentic AI, Prompt Engineering, Fine-tuning, Embeddings, LLM Evaluation, Guardrails**
 
-**Vector Search:** Qdrant, ChromaDB, Pinecone, AstraDB, Semantic Search
+### 🧠 AI Frameworks
+**LangChain, LangGraph, LlamaIndex, Hugging Face Transformers, LangMem, MCP, Tool Calling**
 
-**Backend & Cloud:** FastAPI, Docker, Google Cloud, Vertex AI, BigQuery
+### 🔍 Retrieval & Vector Databases
+**Qdrant, ChromaDB, Pinecone, AstraDB, Hybrid Search, Semantic Search, Reranking**
 
-**Machine Learning:** Scikit-learn, XGBoost, Random Forest, Logistic Regression
+### ☁️ Cloud & Deployment
+**Google Cloud, BigQuery, Vertex AI, Cloud Storage, AWS Bedrock, AWS SageMaker, Docker, CI/CD**
 
-**Tools:** Streamlit, LangSmith, Git, Postman, Jira, Power BI
+### ⚙️ Backend & APIs
+**FastAPI, REST APIs, LangServe**
+
+### 📊 Machine Learning
+**Scikit-learn, XGBoost, Random Forest, Logistic Regression, PyTorch**
+
+### 📈 Observability & Tools
+**LangSmith, Git, GitHub, Postman, Jira, Power BI, Streamlit, n8n**
+
+---
+
+# 🏢 Enterprise AI Experience
+
+## 🚨 AML Investigation Copilot
+
+**Agentic AI • LangGraph • FastAPI • RAG • GCP • BigQuery • Vector Search**
+
+- Developing an **Agentic AI-powered AML Investigation Copilot** to assist financial crime investigators through **explainable, auditable, and human-in-the-loop investigation workflows**.
+- Designed production-ready **multi-agent workflows** with **Planner, Retrieval, Reasoning, and Summarization agents** using LangGraph.
+- Implemented **tool calling and semantic retrieval** to retrieve AML policies, historical investigation cases, customer profiles, and transaction context.
+- Designed the solution for production deployment using **FastAPI and GCP**, integrating **BigQuery, Cloud Storage, vector search, and LLM/Vertex AI services**.
+- Focused on generating **policy-aligned recommendations with traceable evidence** while maintaining human oversight throughout the investigation process.
+
+---
+
+## 🧠 Enterprise NLP-to-SQL Platform
+
+**LLMs • RAG • FastAPI • GCP • BigQuery • Vector Search**
+
+- Built and deployed an end-to-end **production NLP-to-SQL platform** enabling users to query enterprise banking datasets using natural language.
+- Implemented **schema-aware retrieval** to provide relevant tables, columns, business definitions, and metadata as context to the LLM.
+- Developed an LLM-based workflow for **SQL generation, validation, and BigQuery execution**.
+- Integrated **RAG and vector search** to improve SQL generation accuracy using enterprise schema and business context.
+- Deployed the application using **FastAPI and GCP**, with BigQuery serving as the enterprise analytical data layer.
+- Reduced dependency on data teams by **~40%** and improved query turnaround from **hours to seconds**.
+
+---
+
+## 📚 Enterprise RAG Pipeline
+
+**RAG • Embeddings • Hybrid Search • Vector DB • GCP**
+
+- Developed an enterprise RAG pipeline for banking knowledge retrieval.
+- Implemented **document ingestion, intelligent chunking, embeddings, metadata enrichment, semantic search, hybrid retrieval, and reranking**.
+- Designed retrieval workflows to provide relevant and contextually grounded information to LLM applications.
+- Integrated observability and evaluation mechanisms to improve retrieval quality and reduce hallucinations.
+
+---
+
+## 🕵️ Fraud Information Extraction & Classification
+
+**LLMs • NLP • Information Extraction • Classification**
+
+- Built an **LLM-powered information extraction and classification pipeline** to convert unstructured fraud complaint data into structured outputs.
+- Automated extraction of relevant entities and investigation attributes from unstructured complaint narratives.
+- Reduced manual processing effort by **~70%** and improved downstream investigation workflows.
+
+---
+
+## 🤖 Fraud Detection & Mule Account Identification
+
+**XGBoost • Random Forest • Logistic Regression • Kubeflow**
+
+- Periodically retrained machine learning models using **Kubeflow** for fraud detection and mule account identification.
+- Implemented model training workflows using **XGBoost, Random Forest, and Logistic Regression**.
+- Improved detection precision by **~20% while reducing false positives**.
+- Integrated model retraining into a repeatable ML workflow to support production fraud analytics.
 
 ---
 
 # 📁 Featured Projects
 
 ## 🚀 Enterprise Agentic RAG System
-**Google Cloud • LangGraph • FastAPI • Qdrant**
 
-🔗 **Project:** https://github.com/anubhav0296/Enterprise_RAG
+**Google Cloud • LangGraph • FastAPI • Qdrant • Groq**
 
-- Built a production-grade **Retrieval-Augmented Generation (RAG)** system using **Python, LangGraph, FastAPI, Groq, Qdrant, and Google Cloud**, enabling accurate document-grounded responses over large unstructured datasets.
-- Designed and deployed an end-to-end AI pipeline with **document ingestion, vector search, semantic reranking, observability, and cloud deployment**, improving retrieval quality and scalability for enterprise use cases.
+🔗 **Project:**  
+https://github.com/anubhav0296/Enterprise_RAG
 
----
-
-## 🤖 Insurance Claim Support AI Agent
-**LangGraph • LangChain • LangMem • FastAPI • ChromaDB**
-
-🔗 **Project:** https://github.com/anubhav0296/Insurance-Claim-Support-AI-Agent
-
-- Built an agentic insurance claim support system using **Python, FastAPI, LangChain, LangGraph, ChromaDB, and Streamlit** to generate context-aware claim response drafts grounded in policy documents and customer history.
-- Integrated **LangMem-based long-term memory**, **RAG-powered semantic retrieval**, and **LLM-driven tool calling** for customer plan and workload analysis, enabling faster and more consistent insurance support workflows.
+- Built a production-grade **Retrieval-Augmented Generation (RAG)** system using **Python, LangGraph, FastAPI, Groq, Qdrant, and Google Cloud**.
+- Designed an end-to-end AI pipeline covering **document ingestion, embeddings, vector search, semantic reranking, response generation, and observability**.
+- Implemented cloud deployment architecture for scalable enterprise document-grounded question answering.
+- Focused on improving retrieval quality, response relevance, and application scalability.
 
 ---
 
-## 🧠 Agentic AI Workflow (LangGraph Framework)
+## 🤖 Enterprise AI Support Copilot
 
-🔗 **Project:** https://github.com/anubhav0296/AGENTICLANGGRAPH
+**LangGraph • LangChain • LangMem • FastAPI • ChromaDB • Streamlit**
 
-- Designed an **agentic AI workflow** using **LangGraph StateGraph** for structured LLM orchestration.
-- Built **tool-enabled agents** integrating **Wikipedia, ArXiv, and Tavily** for intelligent retrieval.
-- Implemented **conditional routing** and **multi-step reasoning** for autonomous tool execution.
+🔗 **Project:**  
+https://github.com/anubhav0296/Insurance-Claim-Support-AI-Agent
+
+- Built an **Agentic Enterprise Support Copilot** using LangGraph, FastAPI, ChromaDB, and Streamlit for context-aware responses grounded in enterprise documents and customer history.
+- Integrated **LangMem-based long-term memory**, RAG-powered semantic retrieval, and LLM-driven tool calling.
+- Designed workflows for customer plan analysis and workload analysis to support faster and more consistent insurance claim workflows.
 
 ---
 
-## 🤖 Swarm AI – Agentic Automation Platform
-**n8n • Multi-Agent AI • LLMs**
+## 🧠 Agentic AI Workflow — LangGraph
 
-- Designed an event-driven **multi-agent architecture** where AI agents automate workflows such as **Email → Calendar → Travel Booking**.
-- Developed modular workflows integrating **Google Workspace**, **Search APIs**, **Telegram**, and **Voice Interfaces** for end-to-end automation.
+**LangGraph • LangChain • Tool Calling • Multi-Agent Workflows**
+
+🔗 **Project:**  
+https://github.com/anubhav0296/AGENTICLANGGRAPH
+
+- Designed an **agentic AI workflow** using LangGraph StateGraph for structured LLM orchestration.
+- Built tool-enabled agents integrating **Wikipedia, ArXiv, and Tavily** for intelligent information retrieval.
+- Implemented **conditional routing, tool execution, and multi-step reasoning**.
+- Designed modular agent workflows that can be extended with additional tools and capabilities.
+
+---
+
+## 🤖 Swarm AI — Agentic Automation Platform
+
+**n8n • Multi-Agent AI • LLMs • Google Workspace**
+
+- Designed an event-driven **multi-agent architecture** where AI agents collaborate to execute complex workflows such as **Email → Calendar → Travel Booking**.
+- Developed modular workflows integrating **Google Workspace, Search APIs, Telegram, and Voice Interfaces**.
+- Built a multimodal AI assistant for end-to-end workflow automation.
+- Focused on reducing repetitive manual tasks through agent-based orchestration.
 
 ---
 
 ## ⚡ Generative AI & LLM Applications
-**LangChain • FastAPI • Pinecone • AstraDB**
 
-🔗 **Project:** https://github.com/anubhav0296/Generative-AI-LangChain/tree/main/LANGCHAIN
+**LangChain • FastAPI • Pinecone • AstraDB • Groq**
 
-- Built a high-performance **RAG pipeline** using **Groq LPU**, **Llama 3.1**, and **Gemma** for low-latency question answering.
-- Designed scalable semantic retrieval using **AstraDB** and **Pinecone**, and deployed production-ready LLM applications using **FastAPI**, **LangServe**, and **LangSmith**.
+🔗 **Project:**  
+https://github.com/anubhav0296/Generative-AI-LangChain/tree/main/LANGCHAIN
 
----
-
-# 🎯 Current Focus
-
-- 🤖 Agentic AI
-- 📚 Enterprise RAG
-- 🧠 Multi-Agent Systems
-- ☁️ Google Cloud AI
-- 🔍 Semantic Search
-- 🚀 Production LLM Applications
+- Built RAG applications using **Groq LPU, Llama 3.1, and Gemma** for low-latency question answering.
+- Implemented scalable semantic retrieval using **AstraDB and Pinecone**.
+- Developed production-oriented LLM applications using **FastAPI, LangServe, and LangSmith**.
+- Experimented with prompt engineering, retrieval optimization, and LLM application observability.
 
 ---
 
-# 📬 Connect With Me
+# ☁️ GCP AI Architecture
 
-📧 **Email:** **<a href="mailto:shanukumar.srivastava77@gmail.com">shanukumar.srivastava77@gmail.com</a>**
+My production AI applications leverage Google Cloud services for scalable enterprise deployment.
 
-💼 **LinkedIn:** https://www.linkedin.com/in/anubhav-srivastava-65009b163/
-
-🐙 **GitHub:** https://github.com/anubhav0296
-
----
-
-⭐ *Thanks for visiting my profile! Feel free to explore my repositories or connect with me to discuss AI, LLMs, RAG, Agentic AI, and Machine Learning.*
+```text
+                    ┌──────────────────────┐
+                    │       User / UI      │
+                    └──────────┬───────────┘
+                               │
+                               ▼
+                    ┌──────────────────────┐
+                    │    FastAPI / API     │
+                    │      Gateway         │
+                    └──────────┬───────────┘
+                               │
+                               ▼
+                    ┌──────────────────────┐
+                    │   LangGraph / LLM    │
+                    │   Agent Orchestration│
+                    └───────┬───────┬──────┘
+                            │       │
+                 ┌──────────┘       └──────────┐
+                 ▼                             ▼
+       ┌──────────────────┐          ┌──────────────────┐
+       │   RAG / Vector   │          │   Vertex AI /    │
+       │     Search       │          │   Gemini / LLM   │
+       └────────┬─────────┘          └──────────────────┘
+                │
+                ▼
+       ┌──────────────────┐
+       │ Enterprise Data  │
+       │    BigQuery      │
+       └──────────────────┘
+                │
+                ▼
+       ┌──────────────────┐
+       │ Cloud Storage /  │
+       │ Documents / Data │
+       └──────────────────┘
