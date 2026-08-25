@@ -59,7 +59,7 @@ I build enterprise AI applications that combine **LLMs, multi-agent orchestratio
 **Scikit-learn, XGBoost, Random Forest, Logistic Regression, PyTorch**
 
 ### 📈 Observability & Tools
-**LangSmith, Git, GitHub, Postman, Jira, Power BI, Streamlit, n8n**
+**LangSmith, DeepEval, Git, GitHub, Postman, Jira, Power BI, Streamlit, n8n**
 
 ---
 
