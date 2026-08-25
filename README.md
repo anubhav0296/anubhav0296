@@ -25,7 +25,7 @@ I build enterprise AI applications that combine **LLMs, multi-agent orchestratio
 
 # 🌟 Highlights
 
-- 🚨 Developing an **Agentic AI-powered AML Investigation Copilot** using **LangGraph, FastAPI, RAG, GCP, BigQuery, vector search, and LLMs** to support explainable and auditable financial crime investigations.
+- 🚨 Designed and deployed production-grade an **Agentic AI-powered AML Investigation Copilot** using **LangGraph, FastAPI, RAG, GCP, BigQuery, vector search, and LLMs** to support explainable and auditable financial crime investigations.
 - 🧠 Built and deployed a **production NLP-to-SQL platform** using **LLMs, RAG, FastAPI, GCP, BigQuery, and vector search**, enabling natural-language querying over enterprise banking datasets.
 - 🤖 Designed **multi-agent AI workflows** with planner, retrieval, reasoning, and summarization agents using **LangGraph and tool calling**.
 - 📚 Built enterprise-grade **RAG pipelines** with intelligent chunking, embeddings, metadata enrichment, hybrid retrieval, semantic search, and reranking.
