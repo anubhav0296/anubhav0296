@@ -44,7 +44,7 @@ I build enterprise AI applications that combine **LLMs, multi-agent orchestratio
 **LLMs, RAG, Agentic AI, Prompt Engineering, Fine-tuning, Embeddings, LLM Evaluation, Guardrails**
 
 ### 🧠 AI Frameworks
-**LangChain, LangGraph, LlamaIndex, Hugging Face Transformers, LangMem, MCP, Tool Calling**
+**LangChain, LangGraph, LlamaIndex, Hugging Face Transformers, LangMem, Model Context Protocol (MCP), Tool Calling**
 
 ### 🔍 Retrieval & Vector Databases
 **Qdrant, ChromaDB, Pinecone, AstraDB, Hybrid Search, Semantic Search, Reranking**
@@ -123,6 +123,19 @@ I build enterprise AI applications that combine **LLMs, multi-agent orchestratio
 ---
 
 # 📁 Featured Projects
+
+## 🔌 Model Context Protocol (MCP) Practical Guide
+
+**Python • MCP • FastMCP • OpenAI • LangChain • STDIO • Streamable HTTP**
+
+- Built hands-on Python examples to explore how AI applications discover and call capabilities exposed by MCP servers.
+- Demonstrated local **STDIO** communication and **Streamable HTTP** client/server patterns.
+- Implemented sample MCP tools, resources, and prompts, including a travel assistant example.
+- Explored manual OpenAI function-calling orchestration and connected MCP tools to a LangChain agent using the MCP adapter.
+- Documented setup, transport choices, and example workflows in a GitHub-ready practical guide.
+- Used mock travel responses to keep the examples focused on MCP integration rather than real bookings.
+
+---
 
 ## 🚀 Enterprise Agentic RAG System
 
@@ -212,3 +225,4 @@ https://github.com/anubhav0296/Generative-AI-LangChain/tree/main/LANGCHAIN
 ---
 
 ⭐ *Thanks for visiting my profile! Feel free to explore my repositories or connect with me to discuss AI, LLMs, RAG, Agentic AI, and Machine Learning.*
+ 
