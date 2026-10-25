@@ -124,7 +124,7 @@ I build enterprise AI applications that combine **LLMs, multi-agent orchestratio
 
 # 📁 Featured Projects
 
-## 🔌 Model Context Protocol (MCP) Practical Guide
+## 🔌 Model Context Protocol (MCP)-Based Travel Assistant
 
 **Python • MCP • FastMCP • OpenAI • LangChain • STDIO • Streamable HTTP**
 
